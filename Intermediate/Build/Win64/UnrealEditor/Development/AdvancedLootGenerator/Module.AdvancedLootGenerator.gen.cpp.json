@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\development\\advancedlootgenerator\\module.advancedlootgenerator.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\file\\hostproject\\intermediate\\build\\win64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\development\\advancedlootgenerator\\definitions.advancedlootgenerator.h",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\advancedlootgenerator.init.gen.cpp",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\basecharacter.gen.cpp",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\source\\advancedlootgenerator\\public\\basecharacter.h",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\source\\advancedlootgenerator\\public\\baseitem.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\baseitem.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\character.generated.h",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\basecharacter.generated.h",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\baseitem.gen.cpp",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\lootpoints.gen.cpp",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\source\\advancedlootgenerator\\public\\lootpoints.h",
+            "d:\\file\\hostproject\\plugins\\advancedlootgenerator\\intermediate\\build\\win64\\unrealeditor\\inc\\advancedlootgenerator\\lootpoints.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

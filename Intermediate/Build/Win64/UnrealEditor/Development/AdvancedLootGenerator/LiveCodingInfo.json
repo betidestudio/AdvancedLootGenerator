@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AdvancedLootGenerator.cpp.obj": [
+			"AdvancedLootGenerator.cpp.obj",
+			"BaseCharacter.cpp.obj",
+			"BaseItem.cpp.obj",
+			"LootPoints.cpp.obj"
+		],
+		"Module.AdvancedLootGenerator.gen.cpp.obj": [
+			"AdvancedLootGenerator.init.gen.cpp.obj",
+			"BaseCharacter.gen.cpp.obj",
+			"BaseItem.gen.cpp.obj",
+			"LootPoints.gen.cpp.obj"
+		]
+	}
+}
